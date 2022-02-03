@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 ## Acknowledgments
 
 -   [x] Use some style instead only HTML;
--   [x] On **Galaxies** exercise, I create a main page with all galaxies;
+-   [x] On **Galaxies** exercise, I created a main page with all galaxies;
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
