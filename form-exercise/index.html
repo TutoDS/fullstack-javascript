@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Form Exercise</title>
+	</head>
+
+	<body>
+		<h1>Liga dos Astronautas - Registo</h1>
+
+		<form
+			action=""
+			style="display: flex; flex-direction: column; gap: 10px"
+		>
+			<div>
+				<label for="name" style="font-weight: bold; display: block"
+					>Name</label
+				>
+				<input
+					type="text"
+					id="name"
+					name="name"
+					placeholder="Introduza o seu nome"
+				/>
+			</div>
+
+			<div style="display: flex; gap: 10px">
+				<div>
+					<label for="email" style="font-weight: bold; display: block"
+						>Email</label
+					>
+					<input
+						type="email"
+						id="email"
+						name="email"
+						placeholder="Introduza o seu email"
+					/>
+				</div>
+
+				<div>
+					<label
+						for="password"
+						style="font-weight: bold; display: block"
+						>Password</label
+					>
+					<input
+						type="password"
+						id="password"
+						name="password"
+						placeholder="Introduza a sua password"
+					/>
+				</div>
+			</div>
+
+			<div style="display: flex; gap: 10px">
+				<div>
+					<label for="date" style="font-weight: bold; display: block"
+						>Data de Nascimento</label
+					>
+					<input
+						type="date"
+						id="date"
+						name="date"
+						placeholder="Introduza a sua data de nascimento"
+					/>
+				</div>
+				<div>
+					<label for="pic" style="font-weight: bold; display: block"
+						>Foto</label
+					>
+					<input
+						type="file"
+						accept="image/*"
+						id="pic"
+						name="pic"
+						placeholder="Introduza a sua data de nascimento"
+					/>
+				</div>
+			</div>
+
+			<div style="display: flex; gap: 10px">
+				<div>
+					<label
+						for="country"
+						style="font-weight: bold; display: block"
+						>Nacionalidade</label
+					>
+
+					<select name="country" id="country">
+						<option selected disabled>
+							Por favor escolha um pais
+						</option>
+						<option value="pt">Portugal</option>
+						<option value="br">Brasil</option>
+						<option value="es">Espanha</option>
+						<option value="uk">Reino Unido</option>
+						<option value="it">Itália</option>
+					</select>
+				</div>
+				<div>
+					<label for="genre" style="font-weight: bold; display: block"
+						>Género</label
+					>
+
+					<span>
+						<input type="radio" name="genre" id="genre" value="M" />
+						<label>M</label>
+					</span>
+
+					<span>
+						<input type="radio" name="genre" id="genre" value="F" />
+						<label>F</label>
+					</span>
+				</div>
+			</div>
+
+			<div>
+				<label style="font-weight: bold; display: block" for="qualities"
+					>Suas principais qualidades:</label
+				>
+
+				<span>
+					<input
+						type="checkbox"
+						name="qualities"
+						id="qualities"
+						value="inteligência"
+					/>
+					<label>Inteligência</label>
+				</span>
+				|
+				<span>
+					<input
+						type="checkbox"
+						name="qualities"
+						id="qualities"
+						value="resiliência"
+					/>
+					<label>Resiliência</label>
+				</span>
+				|
+				<span>
+					<input
+						type="checkbox"
+						name="qualities"
+						id="qualities"
+						value="preparo físico"
+					/>
+					<label>Preparo Físico</label>
+				</span>
+				|
+				<span>
+					<input
+						type="checkbox"
+						name="qualities"
+						id="qualities"
+						value="educação"
+					/>
+					<label>Educação</label>
+				</span>
+			</div>
+
+			<div>
+				<textarea
+					name="description"
+					id="description"
+					rows="10"
+					cols="30"
+					placeholder="Porque voce gostaria de ser um astronauta?"
+				></textarea>
+			</div>
+
+			<div>
+				<button type="submit">Criar</button>
+			</div>
+		</form>
+	</body>
+</html>

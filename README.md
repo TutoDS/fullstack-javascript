@@ -1,27 +1,16 @@
 <div id="top"></div>
 
 <div align="center">
-  <!-- <a href="https://github.com/tutods/fullstack-javascript">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
-
-<h3 align="center">Fullstack JavaScript</h3>
-
-  <p align="center">
+    <h3 align="center">Fullstack JavaScript</h3>
+    <p align="center">
     Project created following the Fullstack JavaScript Course by <strong>OneBitCode</strong>.
     <br />
-    <!-- <a href="https://github.com/tutods/fullstack-javascript"><strong>Explore the docs »</strong></a> -->
 
 [Stars][stars-url]
+</p>
 
-<!-- ·
-    <a href="https://github.com/tutods/fullstack-javascript/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/tutods/fullstack-javascript/issues">Request Feature</a> -->
-  </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -35,15 +24,12 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <!-- <li><a href="#installation">Installation</a></li> -->
       </ul>
     </li>
-    <!-- <li><a href="#usage">Usage</a></li> -->
-    <li><a href="#roadmap">Roadmap</a></li>
-    <!-- <li><a href="#contributing">Contributing</a></li> -->
+    <li><a href="#roadmap">Roadmap</a></li>>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+
   </ol>
 </details>
 
@@ -145,11 +131,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!--
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
+## Improvements
 
 -   [x] Use some style instead only HTML;
 -   [x] On **Galaxies** exercise, I created a main page with all galaxies;
