@@ -43,7 +43,7 @@
     <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <!-- <li><a href="#acknowledgments">Acknowledgments</a></li> -->
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -151,13 +151,10 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Acknowledgments
 
-<!-- * []()
-* []()
-* []() -->
+-   [x] Use some style instead only HTML;
+-   [x] On **Galaxies** exercise, I create a main page with all galaxies;
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
--->
 
 [stars-shield]: https://img.shields.io/github/stars/tutods/fullstack-javascript.svg?style=for-the-badge
 [stars-url]: https://github.com/tutods/fullstack-javascript/stargazers
