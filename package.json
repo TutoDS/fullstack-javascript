@@ -1,0 +1,15 @@
+{
+	"name": "fullstack-javascript",
+	"version": "1.0.0",
+	"repository": "https://github.com/tutods/fullstack-javascript",
+	"author": "Daniel Sousa @TutoDS <jdaniel.asousa@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"husky": "^7.0.0",
+		"prettier": "^2.5.1",
+		"pretty-quick": "^3.1.3"
+	},
+	"scripts": {
+		"prepare": "husky install"
+	}
+}
