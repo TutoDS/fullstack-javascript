@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>SpaceX</title>
+	</head>
+	<body>
+		<header>
+			<nav style="display: flex; align-items: center; gap: 20px">
+				<a href="index.html"
+					><img src="./images/logo.png" alt="SpaceX"
+				/></a>
+
+				<ul
+					style="
+						display: inline-flex;
+						align-items: center;
+						justify-content: flex-end;
+						gap: 10px;
+						list-style: none;
+					"
+				>
+					<li><a href="spaceship.html">The Spaceships</a></li>
+					<li><a href="hire-us.html">Hire Us</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<hr />
+
+		<main>
+			<h1>Hire US Now</h1>
+			<p>
+				Leave a message to request one of our services and we will get
+				back to you as soon as possible.
+			</p>
+
+			<section>
+				<form action="">
+					<div>
+						<label for="name">Name:</label>
+						<input
+							type="text"
+							id="name"
+							name="name"
+							placeholder="Insert your name"
+						/>
+
+						<label for="email">Email:</label>
+						<input
+							type="email"
+							name="email"
+							id="email"
+							placeholder="Insert your email"
+						/>
+					</div>
+
+					<div>
+						<label for="spaceship">Spaceship:</label>
+						<select name="spaceship" id="spaceship">
+							<option value="falcon 9">Falcon 9</option>
+							<option value="falcon heavy">Falcon HEAVY</option>
+						</select>
+
+						<label for="type">Type of Service:</label>
+						<input
+							type="text"
+							name="type"
+							id="type"
+							placeholder="Insert the service you desire"
+						/>
+					</div>
+
+					<button type="submit">Send Message</button>
+				</form>
+			</section>
+		</main>
+	</body>
+</html>
