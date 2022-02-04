@@ -66,6 +66,8 @@ This project contains all the content of [FullStack JavaScript Course](https://p
 [![React][react-shield]](#)
 [![NodeJS][node-shield]](#)
 [![TypeScript][ts-shield]](#)
+[![CSS][css-shield]](#)
+[![SASS][sass-shield]](#)
 [![VSCode][vscode-shield]](#) [![Stargazers][stars-shield]][stars-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -165,3 +167,5 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [ts-shield]: https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white
 [react-shield]: https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB
 [node-shield]: https://img.shields.io/badge/NodeJS%20-%2320232a.svg?&style=for-the-badge&logo=node.js&logoColor=%23339933
+[css-shield]: https://img.shields.io/badge/CSS%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6
+[sass-shield]: https://img.shields.io/badge/Sass%20-%2320232a.svg?&style=for-the-badge&logo=sass&logoColor=%23CC6699
