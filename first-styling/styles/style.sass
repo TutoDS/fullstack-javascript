@@ -12,3 +12,38 @@ h1
 
 h2
     font-size: 20px
+
+
+.container
+    display: flex
+    align-items: center
+    gap: 2rem
+
+    a
+        min-height: 400px
+        width: 400px
+
+        display: flex
+        flex-direction: column
+        justify-content: flex-end
+
+        padding: 2rem
+        border-radius: 15px
+
+        background-image: url("https://cdn.britannica.com/66/155966-131-17B5B518/Jupiter.jpg")
+        background-position: center
+        background-size: cover
+        background-repeat: no-repeat
+        background-color: rgba(0,0,0,0.5)
+        background-blend-mode: overlay
+        box-shadow: 0 0 10px rgba(0,0,0,0.5)
+
+        color: #fff
+        font-size: 32px
+        font-weight: bold
+        text-decoration: none
+
+        transition: all 0.3s ease-in-out
+
+        &:hover
+            background-color: rgba(0,0,0,.75)
