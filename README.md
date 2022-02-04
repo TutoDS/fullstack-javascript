@@ -10,14 +10,9 @@
   <p align="center">
     Project created following the Fullstack JavaScript Course by <strong>OneBitCode</strong>.
     <br />
-    <!-- <a href="https://github.com/tutods/fullstack-javascript"><strong>Explore the docs »</strong></a> -->
 
 [Stars][stars-url]
 
-<!-- ·
-    <a href="https://github.com/tutods/fullstack-javascript/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/tutods/fullstack-javascript/issues">Request Feature</a> -->
   </p>
 </div>
 
@@ -35,15 +30,11 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <!-- <li><a href="#installation">Installation</a></li> -->
       </ul>
     </li>
-    <!-- <li><a href="#usage">Usage</a></li> -->
-    <li><a href="#roadmap">Roadmap</a></li>
-    <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <!-- <li><a href="#acknowledgments">Acknowledgments</a></li> -->
+    <li><a href="#imporvements">Improvements</a></li>
   </ol>
 </details>
 
@@ -67,6 +58,7 @@ This project contains all the content of [FullStack JavaScript Course](https://p
 [![NodeJS][node-shield]](#)
 [![TypeScript][ts-shield]](#)
 [![CSS][css-shield]](#)
+[![Bulma][bulma-shield]](#)
 [![SASS][sass-shield]](#)
 [![VSCode][vscode-shield]](#) [![Stargazers][stars-shield]][stars-url]
 
@@ -86,55 +78,6 @@ For run this project is necessary the software bellow:
 -   [**Yarn**](https://yarnpkg.com/) (optional) - I use **Yarn** instead **NPM**, because **Yarn** is more performatic;
 -   **IDE** - In my case I use [**Visual Studio Code**](https://code.visualstudio.com/);
 
-<!-- ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/tutods/fullstack-javascript.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
- -->
-
-<!-- USAGE EXAMPLES -->
-<!-- ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p> -->
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-<!-- - [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature -->
-
-See the [open issues](https://github.com/tutods/fullstack-javascript/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## License
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
 ## Contact
 
 <img src="https://github.com/tutods.png" alt="Daniel Sousa @TutoDS" width="150px">
@@ -147,19 +90,12 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!--
+## imporvements
 
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-<!-- * []()
-* []()
-* []() -->
+-   [x] Use **SASS** instead **CSS**;
+    -   For comppile de **SASS** files into **CSS**, I used the [**Live Sass Compiler**](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) extension to **Visual Studio Code**;
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
--->
 
 [stars-shield]: https://img.shields.io/github/stars/tutods/fullstack-javascript.svg?style=for-the-badge
 [stars-url]: https://github.com/tutods/fullstack-javascript/stargazers
@@ -168,4 +104,5 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 [react-shield]: https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB
 [node-shield]: https://img.shields.io/badge/NodeJS%20-%2320232a.svg?&style=for-the-badge&logo=node.js&logoColor=%23339933
 [css-shield]: https://img.shields.io/badge/CSS%20-%2320232a.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6
+[bulma-shield]: https://img.shields.io/badge/Bulma%20-%2320232a.svg?&style=for-the-badge&logo=bulma&logoColor=%231572B6
 [sass-shield]: https://img.shields.io/badge/Sass%20-%2320232a.svg?&style=for-the-badge&logo=sass&logoColor=%23CC6699
