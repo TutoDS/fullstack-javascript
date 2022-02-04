@@ -11,5 +11,8 @@
 	},
 	"scripts": {
 		"prepare": "husky install"
+	},
+	"dependencies": {
+		"sass": "^1.49.7"
 	}
 }
