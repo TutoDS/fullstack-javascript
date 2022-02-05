@@ -1,0 +1,30 @@
+html {
+	background-color: #fafafa;
+}
+
+.object-fit-cover {
+	object-fit: cover;
+}
+
+.list-style-none {
+	list-style: none !important;
+}
+
+.bg-white {
+	background-color: #fff !important;
+}
+
+.color-unset {
+	color: unset !important;
+}
+
+.border-1 {
+	border: 1px solid #d7d7d7 !important;
+}
+
+.shadow {
+	box-shadow: 0 0.5em 1em -0.125em rgba(10, 10, 10, 0.1),
+		0 0 0 1px rgba(10, 10, 10, 0.02);
+}
+
+/*# sourceMappingURL=global.css.map */
