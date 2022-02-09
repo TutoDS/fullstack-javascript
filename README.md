@@ -137,7 +137,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Improvements
 
--   [x] Use inputs on age difference exercise;
+-   [x] Use inputs on exercises, instead confirm dialogs;
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
