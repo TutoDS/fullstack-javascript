@@ -1,23 +1,14 @@
 <div id="top"></div>
 
 <div align="center">
-  <!-- <a href="https://github.com/tutods/fullstack-javascript">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a> -->
-
 <h3 align="center">Fullstack JavaScript</h3>
 
   <p align="center">
     Project created following the Fullstack JavaScript Course by <strong>OneBitCode</strong>.
     <br />
-    <!-- <a href="https://github.com/tutods/fullstack-javascript"><strong>Explore the docs »</strong></a> -->
 
 [Stars][stars-url]
 
-<!-- ·
-    <a href="https://github.com/tutods/fullstack-javascript/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/tutods/fullstack-javascript/issues">Request Feature</a> -->
   </p>
 </div>
 
@@ -35,15 +26,12 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <!-- <li><a href="#installation">Installation</a></li> -->
       </ul>
     </li>
-    <!-- <li><a href="#usage">Usage</a></li> -->
     <li><a href="#roadmap">Roadmap</a></li>
-    <!-- <li><a href="#contributing">Contributing</a></li> -->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <!-- <li><a href="#acknowledgments">Acknowledgments</a></li> -->
+    <li><a href="#improvements">Improvements</a></li>
   </ol>
 </details>
 
@@ -147,19 +135,11 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!--
+## Improvements
 
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-<!-- * []()
-* []()
-* []() -->
+-   [x] Use inputs on age difference exercise;
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
--->
 
 [stars-shield]: https://img.shields.io/github/stars/tutods/fullstack-javascript.svg?style=for-the-badge
 [stars-url]: https://github.com/tutods/fullstack-javascript/stargazers
